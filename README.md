@@ -1,2 +1,2 @@
 # Send_email
-this proces in which we can send email through pythonn
+In this proces we can send email through pythonn
